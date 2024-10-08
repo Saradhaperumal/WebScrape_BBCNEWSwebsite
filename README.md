@@ -14,9 +14,13 @@ Visit the BBC News website at https://www.bbc.com/news.
 
 
 Data to Collect:
+
 1 Headlines of news articles,
+
 2 Author names (if available),
+
 3 Summary or description of the articles,
+
 4 URLs of the articles.
 
 Data Storage:
